@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEgitim", "MyEgitim\MyEgit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Variables", "02_Variables\02_Variables.csproj", "{DB5B4038-2226-4F08-8129-F638FDB6C8CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MakingDecision", "03_MakingDecision\03_MakingDecision.csproj", "{6758F46B-90B1-408A-979E-B61EF80B3CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Loops", "04_Loops\04_Loops.csproj", "{2523402D-5A1D-49A8-A3F6-C886589C0D58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{DB5B4038-2226-4F08-8129-F638FDB6C8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB5B4038-2226-4F08-8129-F638FDB6C8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB5B4038-2226-4F08-8129-F638FDB6C8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6758F46B-90B1-408A-979E-B61EF80B3CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6758F46B-90B1-408A-979E-B61EF80B3CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6758F46B-90B1-408A-979E-B61EF80B3CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6758F46B-90B1-408A-979E-B61EF80B3CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2523402D-5A1D-49A8-A3F6-C886589C0D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2523402D-5A1D-49A8-A3F6-C886589C0D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2523402D-5A1D-49A8-A3F6-C886589C0D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2523402D-5A1D-49A8-A3F6-C886589C0D58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
