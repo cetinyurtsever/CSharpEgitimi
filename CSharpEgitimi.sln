@@ -3,13 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35323.107
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEgitim", "MyEgitim\MyEgitim.csproj", "{7A56C462-B5D4-49BE-AD8F-242172B14915}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MainSubjects", "MyEgitim\01_MainSubjects.csproj", "{7A56C462-B5D4-49BE-AD8F-242172B14915}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Variables", "02_Variables\02_Variables.csproj", "{DB5B4038-2226-4F08-8129-F638FDB6C8CF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MakingDecision", "03_MakingDecision\03_MakingDecision.csproj", "{6758F46B-90B1-408A-979E-B61EF80B3CBD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Loops", "04_Loops\04_Loops.csproj", "{2523402D-5A1D-49A8-A3F6-C886589C0D58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_LoopsWithStars", "05_LoopsWithStars\05_LoopsWithStars.csproj", "{445D5E08-85F3-44E7-BE0D-8ABA950FFD13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Arrays", "06_Arrays\06_Arrays.csproj", "{EBC66ACD-9E39-4CBD-AAC7-63FFD413AF10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ForeachLoop", "07_ForeachLoop\07_ForeachLoop.csproj", "{9D674487-1100-4FD8-82C7-1A95BD70A771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Methods", "08_Methods\08_Methods.csproj", "{0F7865EA-B40C-4CA2-AD16-31D91EE9D39A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DatabaseProject", "09_DatabaseProject\09_DatabaseProject.csproj", "{597EB02A-0FF5-41CC-BF86-ECFFB2F23BB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{2523402D-5A1D-49A8-A3F6-C886589C0D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2523402D-5A1D-49A8-A3F6-C886589C0D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2523402D-5A1D-49A8-A3F6-C886589C0D58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{445D5E08-85F3-44E7-BE0D-8ABA950FFD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445D5E08-85F3-44E7-BE0D-8ABA950FFD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445D5E08-85F3-44E7-BE0D-8ABA950FFD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445D5E08-85F3-44E7-BE0D-8ABA950FFD13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC66ACD-9E39-4CBD-AAC7-63FFD413AF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC66ACD-9E39-4CBD-AAC7-63FFD413AF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC66ACD-9E39-4CBD-AAC7-63FFD413AF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC66ACD-9E39-4CBD-AAC7-63FFD413AF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D674487-1100-4FD8-82C7-1A95BD70A771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D674487-1100-4FD8-82C7-1A95BD70A771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D674487-1100-4FD8-82C7-1A95BD70A771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D674487-1100-4FD8-82C7-1A95BD70A771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7865EA-B40C-4CA2-AD16-31D91EE9D39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7865EA-B40C-4CA2-AD16-31D91EE9D39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7865EA-B40C-4CA2-AD16-31D91EE9D39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7865EA-B40C-4CA2-AD16-31D91EE9D39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597EB02A-0FF5-41CC-BF86-ECFFB2F23BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597EB02A-0FF5-41CC-BF86-ECFFB2F23BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597EB02A-0FF5-41CC-BF86-ECFFB2F23BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597EB02A-0FF5-41CC-BF86-ECFFB2F23BB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
